@@ -1,10 +1,10 @@
 [
   {
-    "package": "acnr",
+    "package": "jointseg",
     "oncran": true
   },
   {
-    "package": "jointseg",
+    "package": "acnr",
     "oncran": true
   }
 ]

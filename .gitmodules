@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "acnr"]
-	path = acnr
-	url = https://github.com/mpierrejean/acnr
-	shallow = true
-	registered = true
 [submodule "jointseg"]
 	path = jointseg
 	url = https://github.com/mpierrejean/jointseg
+	shallow = true
+	registered = true
+[submodule "acnr"]
+	path = acnr
+	url = https://github.com/mpierrejean/acnr
 	shallow = true
 	registered = true
